@@ -1,0 +1,24 @@
+body{
+    font-family: Arial;
+    margin:20px;
+    background:#f4f4f4;
+}
+
+nav{
+    background:#003366;
+    padding:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-right:20px;
+}
+
+h1{
+    color:#003366;
+}
+
+button{
+    padding:10px 20px;
+}
